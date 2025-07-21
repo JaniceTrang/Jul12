@@ -15,7 +15,7 @@ This is an educational project on data cleaning and preparation using SQL. The o
 |mendie alexandrescu|46|single|malexandrescu8@state.gov|504-918-4753|34 Delladonna Terrace,New Orleans,Louisiana|Systems Administrator III|3/12/1921|
 | fey kloss|52|married|fkloss9@godaddy.com|808-177-0318|8976 Jackson Park,Honolulu,Hawaii|Chemical Engineer|11/5/2014|
 
-2.Cleaning data 
+2. Cleaning data 
 - Step 1. age: fill in null cells and revise unrealistic age 
 - Step 2. martial_status: fill in null cells and revise wrong spelling 
 - Step 3. full_name: trim whitespaces and change letter case consistently
